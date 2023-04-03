@@ -1,0 +1,5 @@
+2023-04-03 02:08:07.215603 - Initialized conversion of CBT709
+2023-04-03 02:08:07.244625 - Received CBT.V504.FILE709.PDS from FILE709.XMI 
+2023-04-03 02:08:07.248531 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE709.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:08:07.250002 - Found @FILE709.txt (text/plain) in CBT.V504.FILE709.PDS, moved to PDS/@FILE709
+2023-04-03 02:08:07.251324 - Found MPFCMD.txt (text/plain) in CBT.V504.FILE709.PDS, moved to PDS/MPFCMD
